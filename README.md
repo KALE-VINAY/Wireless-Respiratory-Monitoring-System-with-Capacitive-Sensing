@@ -1,0 +1,2 @@
+# Wireless-Respiratory-Monitoring-System-with-Capacitive-Sensing
+We have created a compact device that monitors patients' breathing, transmitting readings to a mobile app via Bluetooth. The device utilizes parallel plate capacitor sensors for accurate breathing measurements, while a 33mm x 29mm Arduino Bluno Beetle microcontroller processes capacitance changes and seamlessly projects the data into the app.
